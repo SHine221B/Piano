@@ -1,0 +1,14 @@
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\bin\Debug\Piano.exe.config
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\bin\Debug\Piano.exe
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\bin\Debug\Piano.pdb
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.Properties.Resources.resources
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.csproj.GenerateResource.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.csproj.CoreCompileInputs.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.exe
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.pdb
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.csprojAssemblyReference.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.Form1.resources
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Interop.WMPLib.dll
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.csproj.ResolveComReference.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.Form2.resources
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\Piano\Piano\obj\Debug\Piano.Form3.resources
